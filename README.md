@@ -1,7 +1,4 @@
 # URL-shortener
-
-### Temporarily deployed project here, just in case: http://154.194.53.244:8000/sh/api/shortened_urls/
-
 ## Setting up
 **Pyton 3.11 is required**
 
